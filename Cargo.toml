@@ -5,6 +5,7 @@ members = [
     "sugondat-chain/pallets/*",
     "sugondat-chain/runtimes/*",
     "sugondat-chain/primitives",
+    "sugondat-chain/integration-test",
     "adapters/sovereign",
     "sugondat-nmt",
     "sugondat-shim",
